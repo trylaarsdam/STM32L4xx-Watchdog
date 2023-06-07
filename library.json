@@ -1,0 +1,19 @@
+{
+	"name": "STM32L4xx Watchdog",
+	"description": "Independent watchdog for the STM32L4xx series of microcontrollers",
+	"version": "1.0.1",
+	"author": 
+	{
+		"name": "Todd Rylaarsdam",
+		"email": "todd@toddr.org",
+		"url": "https://toddr.org",
+		"maintainer": true
+	},
+	"repository": 
+	{
+		"type": "git",
+		"url": "https://github.com/trylaarsdam/STM32L4xx-Watchdog"
+	},
+	"frameworks": "arduino",
+	"platforms": "ststm32"
+}
